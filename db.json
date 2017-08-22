@@ -1,0 +1,317 @@
+{
+  "RecentPowerConsumption": [
+    {
+      "dateTime": "2017-08-09T17:37:42.950Z",
+      "mode": "on"
+    }
+  ],
+  "schedule": [
+    {
+      "bathTime": "2017-07-25T19:04:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW",
+      "needHeating": false
+    },
+    {
+      "bathTime": "2017-07-25T19:16:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW",
+      "needHeating": false
+    },
+    {
+      "bathTime": "2017-07-25T19:52:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW",
+      "needHeating": false
+    },
+    {
+      "bathTime": null,
+      "userName": "shani",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": null,
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": null,
+      "userName": "sasa",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": null,
+      "userName": "sasa",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": null,
+      "userName": "sasa",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": null,
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2017-08-25T19:04:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2017-08-25T19:04:00.000Z",
+      "userName": "dit5",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": null,
+      "userName": "we",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": null,
+      "userName": "we",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": null,
+      "userName": "we",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": null,
+      "userName": "we",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW",
+      "needHeating": true
+    },
+    {
+      "bathTime": null,
+      "userName": "we",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": null,
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2018-07-25T19:04:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2018-07-25T19:04:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2018-07-25T19:04:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2018-08-15T21:50:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2018-08-15T21:50:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2018-08-15T21:50:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2018-08-15T21:50:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW",
+      "needHeating": false
+    },
+    {
+      "bathTime": "2018-08-15T21:50:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2018-08-15T21:50:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2018-08-15T21:50:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2018-08-15T21:50:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2018-08-15T21:50:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2018-08-15T21:50:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2018-08-15T21:50:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2018-08-15T21:50:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2018-08-15T21:50:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2018-08-15T21:50:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2018-08-15T21:50:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW",
+      "needHeating": false
+    },
+    {
+      "bathTime": "2018-08-15T21:50:00.000Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW",
+      "needHeating": false
+    },
+    {
+      "bathTime": null,
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    },
+    {
+      "bathTime": "2017-09-03T07:37:49.132Z",
+      "userName": "dit",
+      "heatLevel": "SEMI",
+      "repeatType": "DAILY",
+      "status": "NEW"
+    }
+  ],
+  "WaterHeaterOnPerBath": [
+    {
+      "bathTime": "2017-07-25T19:52:00.000Z",
+      "minutesOn": 1.0003666666666666
+    }
+  ],
+  "PowerConsumptionPerWeek": [],
+  "FeedbackHistory": [
+    {
+      "too hot": 2,
+      "too cold": 6,
+      "just right": 1
+    }
+  ],
+  "RecentTemperature": [
+    {
+      "dateTime": "2017-06-06T19:01:06.314Z",
+      "temperature": 25
+    }
+  ],
+  "UserPreferredTemperature": [
+    {
+      "userName": "dit",
+      "HOT": 60,
+      "SEMI": 50,
+      "COLD": 45
+    }
+  ],
+  "waterHeaterParams": [
+    {
+      "volume": "101",
+      "kwatt": "2010"
+    }
+  ]
+}
